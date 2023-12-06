@@ -21,19 +21,7 @@
 <h2 align="center">
 <details open>
 <summary>📈&ensp; <i>Ａｔｉｖｉｄａｄｅｓ</i> &ensp;📈</summary>
-<br>
-<img align="center" src="https://github.com/Gabbszzz/Img/blob/main/planet.gif" width="200px">
-<br><br>
-<img align="left" height="415px" width="290px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ch4rse404&langs_count=8&theme=tokyonight&hide_border=true">
-<div align="right">
-  
+
 <img height="203px" src="https://github-readme-stats.vercel.app/api?username=Ch4rse404&show_icons=true&custom_title=Henrique%20Github%20Stats&theme=tokyonight&hide_border=true">
 <img height="203px" src="https://github-readme-streak-stats.herokuapp.com/?user=Ch4rse404&theme=tokyonight&hide_border=true">
 </div>
-
-<div align="center">
-    <br><p align="centre"><b>Visitors Count</b></p>  
-    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Ch4rse404}/count.svg" /></p> 
-    <br>
-    </div>
-</details>
